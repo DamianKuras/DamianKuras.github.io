@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="col-2"></div>
+<div class="title col-8">{{ page.title }}</div>
+<div class="date col-2">{{ page.date | date_to_string }}</div>
+<div class="col-2"></div>
+<div class="post col-8">
+  Link: <a href={{page.link}}>{{page.link}}</a>
+  {{ content }}
+</div>
