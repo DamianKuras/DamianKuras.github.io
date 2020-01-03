@@ -1,0 +1,7 @@
+---
+layout: post
+title: "symulacja negatywnego opóźnienia w grach komputerowych"
+date: 2020-01-03
+link: https://nolannicholson.com/latency.html
+---
+Strona przedsawia możliwe do zastowania metody poprawy płynności gier strumieniowanych przez chmure. Algorytmy te nie zmniejszaja opóźnień w grach. W swoim działaniu używają one takich metod jak zwiększenia ilości klatek lub modelu opartego na przewidywaniu tego co gracz ma zamiar zrobić. 
