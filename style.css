@@ -40,7 +40,7 @@ font-weight: 550;
 .post{
   border-top: 2px solid #40A4F4;
   padding: 20px;
-
+  word-wrap: break-word;
 }
 .posts{
   padding: 30px;
