@@ -16,8 +16,8 @@
 
 [class*="col-"] {
   float: left;
-  padding: 15px;
-
+  padding-top: 20px;
+  padding-bottom:20px;
 }
 body{
   background-color: white;
