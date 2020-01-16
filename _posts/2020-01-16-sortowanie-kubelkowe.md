@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sortowanie kubełkowe"
+title: "Sortowanie kubełkowe"
 date: 2020-01-16
 link: https://www.cs.usfca.edu/~galles/visualization/BucketSort.html
 ---
