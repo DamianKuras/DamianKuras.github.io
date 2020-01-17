@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Algorytm Knutha-Morrisa-Pratta"
+date: 2020-01-17
+link: https://medium.com/@giri_sh/string-matching-kmp-algorithm-27c182efa387
+---
+Strona zawiera informacje na temat algorytmu Knutha-Morrisa-Pratta. Jest to algorytm szybkiego wyszukiwania wzorca w tekście. Dzięki zastosowanej metodzie wyboru indeksu dalszego poszukiwania algorytm ma lepszą złożoność obliczeniową od prostej metody porównywania wszystkich podciągów do wzorca. Strona zawiera graficzną prezentacje oraz implementacje algorytmu w języku python. 
